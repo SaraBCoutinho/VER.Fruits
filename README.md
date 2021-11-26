@@ -11,7 +11,7 @@
 
 The files are ordered like as:
 
-**1-ModelsvggandResnet.ipynb** - File with a models Vgg and ResNet and your obtained accuraces.
+**1-Models.ipynb** - File with a models Vgg and ResNet and your obtained accuraces.
 
 
 **2-Verfruitmobilenet.ipynb** - File with a MobileNet Model and your obtained accuracy. Also the model conversion from h5 to kmodel.
