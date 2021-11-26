@@ -1,0 +1,9 @@
+{
+  "frutas": {
+    "banana": {"id": 1, "name":"banana","presente":"sim", "estado":"bom", "data":"1/10/2021"},
+    "maça": {"id": 5, "name":"apple","presente":"sim", "estado":"ruim", "data":"1/10/2021"},
+    "laranja": {"id": 9, "name":"orange","presente":"nao", "estado":"n/a", "data":"1/10/2021"}
+  }
+}
+
+
