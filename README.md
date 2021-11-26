@@ -1,7 +1,7 @@
 # VER.Fruits
     
-                                                          PROJETOVERFRUITSBESC2021
-                           This is a repository to support a project VER.Fruit submitted to SBESC Competition 2021. 
+                                                   PROJETOVERFRUITSBESC2021
+                     This is a repository to support a project VER.Fruit submitted to SBESC Competition 2021. 
     
 
 ![image](https://user-images.githubusercontent.com/39732050/143601069-469d7277-d394-47cb-a686-6a69f107074f.png)
