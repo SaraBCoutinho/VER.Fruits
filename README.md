@@ -73,6 +73,8 @@ A **user's interface (android app)** is showed in a picture below (print of each
 
 ![image](https://user-images.githubusercontent.com/39732050/143602379-15306038-b24e-4477-aeb6-bdb5a17c93b4.png)
 
+The file part fruits corresponding to the competition participation certificate.
+
                                                          APPVERFRUIT
 
 References: 
